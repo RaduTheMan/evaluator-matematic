@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1579092711 source:c:\users\radu\desktop\info style\info\proiect ip evaluator matematic\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+
+1579103783 source:c:\users\radu\desktop\evaluator matematic\proiect ip evaluator matematic\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+
